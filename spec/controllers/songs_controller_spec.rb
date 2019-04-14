@@ -14,4 +14,3 @@ RSpec.describe SongsController do
     end
   end
 end
-
